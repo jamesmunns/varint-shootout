@@ -1,0 +1,3 @@
+[submodule "postbench/rust_serialization_benchmark"]
+	path = postbench/rust_serialization_benchmark
+	url = https://github.com/jamesmunns/rust_serialization_benchmark.git
